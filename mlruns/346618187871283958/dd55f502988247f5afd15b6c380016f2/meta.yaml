@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rose%20Kiran/MLOPS%20Assignment1/mlops_assignment/mlruns/346618187871283958/dd55f502988247f5afd15b6c380016f2/artifacts
+end_time: 1737879134906
+entry_point_name: ''
+experiment_id: '346618187871283958'
+lifecycle_stage: active
+run_id: dd55f502988247f5afd15b6c380016f2
+run_name: resilient-shrike-831
+run_uuid: dd55f502988247f5afd15b6c380016f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879117543
+status: 3
+tags: []
+user_id: Rose Kiran
