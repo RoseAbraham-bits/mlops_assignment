@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rose%20Kiran/MLOPS%20Assignment1/mlops_assignment/mlruns/439404890765583239/c0caeec44e0347748d75ac737bc0df59/artifacts
+end_time: 1737907466261
+entry_point_name: ''
+experiment_id: '439404890765583239'
+lifecycle_stage: active
+run_id: c0caeec44e0347748d75ac737bc0df59
+run_name: unruly-whale-140
+run_uuid: c0caeec44e0347748d75ac737bc0df59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737907458054
+status: 3
+tags: []
+user_id: Rose Kiran

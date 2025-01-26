@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Rose%20Kiran/MLOPS%20Assignment1/mlops_assignment/mlruns/346618187871283958/57651c2a1f8b44d9a2d2b1ef1c5ab640/artifacts
+end_time: 1737906930522
+entry_point_name: ''
+experiment_id: '346618187871283958'
+lifecycle_stage: active
+run_id: 57651c2a1f8b44d9a2d2b1ef1c5ab640
+run_name: welcoming-jay-201
+run_uuid: 57651c2a1f8b44d9a2d2b1ef1c5ab640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737906922456
+status: 3
+tags: []
+user_id: Rose Kiran
